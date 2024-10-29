@@ -1,0 +1,20 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 30vh;
+    height: 50vh;
+    border: 2px solid black;
+}
+#button{
+    border: 1px solid black;
+}
+#button:hover{
+    cursor: pointer ;
+}
+#output{
+    margin-top: 5px;
+    background-color:rgb(197, 197, 197);
+    font:bold;
+}
